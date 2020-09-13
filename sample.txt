@@ -2,3 +2,4 @@ First Line
 Second Line
 Third Line from FirstBranch
 Added Line From Intelij
+Added new Line From Intelij
